@@ -1,0 +1,7 @@
+ids,labels,parents
+trump-president, 
+obama-president,
+biden-president, 
+joe-biden, biden-president, 
+hillary-president,
+clinton-hillary, hillary-president, 
